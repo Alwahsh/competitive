@@ -1,0 +1,147 @@
+18:35:52 **** Build of configuration Debug for project UVA 147 ****
+make all 
+Building file: ../src/UVA147.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/UVA147.d" -MT"src/UVA147.d" -o "src/UVA147.o" "../src/UVA147.cpp"
+Finished building: ../src/UVA147.cpp
+ 
+Building target: UVA 147
+Invoking: Cross G++ Linker
+g++  -o "UVA 147"  ./src/UVA147.o   
+Finished building target: UVA 147
+ 
+18:35:56 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+make: Nothing to be done for `all'.
+18:36:14 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+make: Nothing to be done for `all'.
+18:36:58 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+make: Nothing to be done for `all'.
+18:44:33 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+Building file: ../src/UVA147.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/UVA147.d" -MT"src/UVA147.d" -o "src/UVA147.o" "../src/UVA147.cpp"
+Finished building: ../src/UVA147.cpp
+ 
+Building target: UVA 147
+Invoking: Cross G++ Linker
+g++  -o "UVA 147"  ./src/UVA147.o   
+Finished building target: UVA 147
+ 
+18:44:53 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+Building file: ../src/UVA147.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/UVA147.d" -MT"src/UVA147.d" -o "src/UVA147.o" "../src/UVA147.cpp"
+Finished building: ../src/UVA147.cpp
+ 
+Building target: UVA 147
+Invoking: Cross G++ Linker
+g++  -o "UVA 147"  ./src/UVA147.o   
+Finished building target: UVA 147
+ 
+18:44:56 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+make: Nothing to be done for `all'.
+18:45:59 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+Building file: ../src/UVA147.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/UVA147.d" -MT"src/UVA147.d" -o "src/UVA147.o" "../src/UVA147.cpp"
+Finished building: ../src/UVA147.cpp
+ 
+Building target: UVA 147
+Invoking: Cross G++ Linker
+g++  -o "UVA 147"  ./src/UVA147.o   
+Finished building target: UVA 147
+ 
+18:46:26 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+Building file: ../src/UVA147.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/UVA147.d" -MT"src/UVA147.d" -o "src/UVA147.o" "../src/UVA147.cpp"
+Finished building: ../src/UVA147.cpp
+ 
+Building target: UVA 147
+Invoking: Cross G++ Linker
+g++  -o "UVA 147"  ./src/UVA147.o   
+Finished building target: UVA 147
+ 
+18:46:57 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+Building file: ../src/UVA147.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/UVA147.d" -MT"src/UVA147.d" -o "src/UVA147.o" "../src/UVA147.cpp"
+Finished building: ../src/UVA147.cpp
+ 
+Building target: UVA 147
+Invoking: Cross G++ Linker
+g++  -o "UVA 147"  ./src/UVA147.o   
+Finished building target: UVA 147
+ 
+18:47:15 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+Building file: ../src/UVA147.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/UVA147.d" -MT"src/UVA147.d" -o "src/UVA147.o" "../src/UVA147.cpp"
+Finished building: ../src/UVA147.cpp
+ 
+Building target: UVA 147
+Invoking: Cross G++ Linker
+g++  -o "UVA 147"  ./src/UVA147.o   
+Finished building target: UVA 147
+ 
+18:47:30 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+Building file: ../src/UVA147.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/UVA147.d" -MT"src/UVA147.d" -o "src/UVA147.o" "../src/UVA147.cpp"
+Finished building: ../src/UVA147.cpp
+ 
+Building target: UVA 147
+Invoking: Cross G++ Linker
+g++  -o "UVA 147"  ./src/UVA147.o   
+Finished building target: UVA 147
+ 
+18:47:45 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+make: Nothing to be done for `all'.
+18:47:55 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+make: Nothing to be done for `all'.
+18:48:17 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+make: Nothing to be done for `all'.
+18:49:26 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+Building file: ../src/UVA147.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/UVA147.d" -MT"src/UVA147.d" -o "src/UVA147.o" "../src/UVA147.cpp"
+Finished building: ../src/UVA147.cpp
+ 
+Building target: UVA 147
+Invoking: Cross G++ Linker
+g++  -o "UVA 147"  ./src/UVA147.o   
+Finished building target: UVA 147
+ 
+18:49:33 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+make: Nothing to be done for `all'.
+18:49:44 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+Building file: ../src/UVA147.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/UVA147.d" -MT"src/UVA147.d" -o "src/UVA147.o" "../src/UVA147.cpp"
+Finished building: ../src/UVA147.cpp
+ 
+Building target: UVA 147
+Invoking: Cross G++ Linker
+g++  -o "UVA 147"  ./src/UVA147.o   
+Finished building target: UVA 147
+ 
+18:49:49 **** Incremental Build of configuration Debug for project UVA 147 ****
+make all 
+make: Nothing to be done for `all'.

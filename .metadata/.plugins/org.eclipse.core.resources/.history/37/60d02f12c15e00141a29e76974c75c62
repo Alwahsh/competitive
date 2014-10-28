@@ -1,0 +1,25 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+#define ll long long
+
+ll DP[30005];
+double temp;
+int val;
+
+int main() {
+	memset(DP,0,sizeof DP);
+	DP[5] = 1;
+	DP[10] = 1;
+	DP[20] = 1;
+	DP[50] = 1;
+	DP[100] = 1;
+	while (cin >> temp) {
+		temp+= 0.005;
+		val = temp*100.0;
+		if (val == 0)
+			return 0;
+	}
+	return 0;
+}
