@@ -1,0 +1,70 @@
+!SESSION 2014-10-28 17:14:07.442 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -data /home/themonster/Competitive/competitive -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.ui 2 0 2014-10-28 17:14:08.956
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-28 17:14:08.956
+!MESSAGE Commands should really have a category: plug-in='org.eclipse.linuxtools.systemtap.ui.graphing', id='org.eclipse.linuxtools.systemtap.ui.graphing.commands.SaveGraphImage', categoryId='org.eclipse.linuxtools.systemtap.ui.graphing.category.file'
+
+!ENTRY org.eclipse.ui 2 0 2014-10-28 17:14:09.485
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-28 17:14:09.485
+!MESSAGE Commands should really have a category: plug-in='org.eclipse.linuxtools.systemtap.ui.graphing', id='org.eclipse.linuxtools.systemtap.ui.graphing.commands.SaveGraphImage', categoryId='org.eclipse.linuxtools.systemtap.ui.graphing.category.file'
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-10-28 17:15:32.644
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-10-28 17:15:32.644
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-10-28 17:15:32.644
+!MESSAGE Software being installed: EclipseCoder Python Support 0.2.3 (net.fornwall.eclipsecoder.pythonsupport.feature.group 0.2.3)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-10-28 17:15:32.644
+!MESSAGE Missing requirement: EclipseCoder Python Support 0.2.3 (net.fornwall.eclipsecoder.pythonsupport.feature.group 0.2.3) requires 'org.python.pydev 0.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-10-28 17:15:32.648
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-10-28 17:15:32.648
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-10-28 17:15:32.648
+!MESSAGE Software being installed: EclipseCoder Python Support 0.2.3 (net.fornwall.eclipsecoder.pythonsupport.feature.group 0.2.3)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-10-28 17:15:32.648
+!MESSAGE Missing requirement: EclipseCoder Python Support 0.2.3 (net.fornwall.eclipsecoder.pythonsupport.feature.group 0.2.3) requires 'org.python.pydev 0.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-10-28 17:15:32.652
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-10-28 17:15:32.652
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-10-28 17:15:32.652
+!MESSAGE Software being installed: EclipseCoder Python Support 0.2.3 (net.fornwall.eclipsecoder.pythonsupport.feature.group 0.2.3)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-10-28 17:15:32.652
+!MESSAGE Missing requirement: EclipseCoder Python Support 0.2.3 (net.fornwall.eclipsecoder.pythonsupport.feature.group 0.2.3) requires 'org.python.pydev 0.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2014-10-28 17:15:32.652
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2014-10-28 17:15:32.652
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-10-28 17:15:32.652
+!MESSAGE Software being installed: EclipseCoder Python Support 0.2.3 (net.fornwall.eclipsecoder.pythonsupport.feature.group 0.2.3)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-10-28 17:15:32.652
+!MESSAGE Missing requirement: EclipseCoder Python Support 0.2.3 (net.fornwall.eclipsecoder.pythonsupport.feature.group 0.2.3) requires 'org.python.pydev 0.0.0' but it could not be found
+!SESSION 2014-10-28 17:18:40.916 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -data /home/themonster/Competitive/competitive -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.ui 2 0 2014-10-28 17:18:44.621
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-28 17:18:44.621
+!MESSAGE Commands should really have a category: plug-in='org.eclipse.linuxtools.systemtap.ui.graphing', id='org.eclipse.linuxtools.systemtap.ui.graphing.commands.SaveGraphImage', categoryId='org.eclipse.linuxtools.systemtap.ui.graphing.category.file'
+
+!ENTRY org.eclipse.ui 2 0 2014-10-28 17:18:45.165
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-28 17:18:45.165
+!MESSAGE Commands should really have a category: plug-in='org.eclipse.linuxtools.systemtap.ui.graphing', id='org.eclipse.linuxtools.systemtap.ui.graphing.commands.SaveGraphImage', categoryId='org.eclipse.linuxtools.systemtap.ui.graphing.category.file'
